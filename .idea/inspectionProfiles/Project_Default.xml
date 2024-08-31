@@ -1,0 +1,22 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N803" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="handlers.users.quran.option_to_read" />
+          <option value="handlers.users.surah.filters" />
+          <option value="keyboards.inline.get_next_10_ayahs.state" />
+          <option value="handlers.users.start.Text" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

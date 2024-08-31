@@ -1,0 +1,15 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pyaes = "==1.6.1"
+pyrogram = "==2.0.106"
+pysocks = "==1.7.1"
+betterlogging = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.12"
